@@ -1,0 +1,94 @@
+.container {
+    position: relative;
+    text-align: center;
+    color: black;
+    background-color: rgb(204, 197, 197);
+  }
+  
+.bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+    text-align: justify;
+    width: 300px;
+    padding: 50px;
+    margin-left: 120px;
+    background-color: rgb(194, 191, 191);
+    font-size: 20px;
+  }
+  .link-button{
+    text-decoration: none;
+    background-color: orange;
+    border: 10px;
+    padding: 10px 10px;
+    border-radius: 20px;
+  }
+  .Container-two{
+    background-color: rgb(204, 197, 197);
+
+  }
+  .Container-two{
+    display: flex;
+
+  }
+  .half-width{
+    width: 50%;
+    border: 10px ;
+    margin-left: 140px;
+    margin-top: 50px;
+    text-align: justify;
+    padding: 10px;
+    font-size: 20px;
+  }
+  .half{
+    width: 60%;
+  }
+  .container-three{
+    background-color: rgb(204, 197, 197);
+    display: flex;
+    
+  }
+  .width-two{
+    width: 50%;
+    box-shadow: 10px 10px 8px #888888;
+    padding: 20px;
+    border: 20px;
+    margin: 30px;
+    border-radius: 20px;
+
+  }
+  #Differ{
+    border-left: 10px solid orange;
+    
+  }
+  #Same{
+    border-left: 10px solid green;
+  }
+  .Box1{
+    width: 600px;
+    border: 1px solid;
+    padding: 20px;
+    margin: 10px;
+
+  }
+  .Box2{
+    width: 600px;
+    border: 1px solid;
+    padding: 20px;
+    margin: 10px;
+  }
+  .Box3{
+    width: 600px;
+    border: 1px solid;
+    padding: 20px;
+    margin: 10px;
+
+  }
+  footer{
+    text-align: center;
+    color:rgb(24, 17, 5) ;
+    background-color: rgb(204, 197, 197);
+    text-decoration: underline;
+    font-size: 30px;
+  }
+  
